@@ -8,7 +8,7 @@ cask "usageos" do
   desc "Private, on-device time tracker for macOS"
   homepage "https://usageos.app"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "UsageOS.app"
 

@@ -1,6 +1,6 @@
 cask "usageos" do
-  version "0.1.2"
-  sha256 "abec6b32452fc5604924dd568be9807df841c60d7016ffe3f75501c370bcdd10"
+  version "0.1.3"
+  sha256 "95504fcfc4cfdf0c457da6beda144a263e6171b1ff5e2ff2afd7e6f9cca57888"
 
   url "https://github.com/f-gozie/usage-os/releases/download/v#{version}/UsageOS-#{version}-universal.dmg",
       verified: "github.com/f-gozie/usage-os/"
